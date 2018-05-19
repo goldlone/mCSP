@@ -108,5 +108,4 @@ class Edge{
 		this.end = end;
 		this.weight = weight;
 	}
-	
 }
